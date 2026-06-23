@@ -86,16 +86,6 @@ Real-time messaging & social networking platform featuring:
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=sdijhegwkh\&show_icons=true\&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sdijhegwkh\&layout=compact\&theme=tokyonight)
-
-![](https://streak-stats.demolab.com?user=sdijhegwkh\&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 📧 Email: [sprout890@gmail.com](mailto:sprout890@gmail.com)
